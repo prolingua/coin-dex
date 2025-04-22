@@ -36,5 +36,4 @@ const nextConfig = {
 	},
 	experimental: {}
 };
-
 module.exports = withBundleAnalyzer(nextConfig);
